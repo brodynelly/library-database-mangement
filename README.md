@@ -1,6 +1,8 @@
 # Library Management System
 
-A robust and secure Library Management System built with Python and MySQL. This application allows librarians and patrons to manage books, authors, and transactions effectively.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/brodynelly/library-database-mangement/actions/workflows/ci.yml/badge.svg)](https://github.com/brodynelly/library-database-mangement/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python)
+
+A secure Library Management System built with Python and MySQL. This application allows librarians and patrons to manage books, authors, and transactions effectively.
 
 ## Features
 
